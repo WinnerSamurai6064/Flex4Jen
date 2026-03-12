@@ -1,0 +1,8 @@
+{
+  "name": "Flex4Genz",
+  "description": "Advanced AI image generation app with thick liquid glass UI, featuring multiple specialized models and secure admin controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
